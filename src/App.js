@@ -1,19 +1,18 @@
 import logo from './logo.svg';
-import './App.css';
-import '/index.html';
+//import './App.css';
+//import '/index.html';
+import React from "react";
+import WorkoutPlanner from "./WorkoutPlanner";
 
-function HorizontalScrollBar(){
-  const={[horizontalBarEx,setHorizontlBarEx];
-       [...horizontalBarEx]
+function App(){
+    <div className="App">
+      <WorkoutPlanner />
+    </div>
 
-    
-  }
-  function SortExer()
-  {
-   
-  }
-  return()
+);
+  )
 
-}
+  
 
-export default HorizontalScrollBar;
+
+export default App;
